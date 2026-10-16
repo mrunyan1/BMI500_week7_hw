@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+.DS_Store
+hypothesis.jpg
+pandemic_modeling.ipynb
